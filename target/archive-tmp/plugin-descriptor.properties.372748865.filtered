@@ -1,0 +1,8 @@
+plugin=org.elasticsearch.plugin.direct.DirectRoutingPlugin
+name=direct
+description=direct routing
+version=1.0.0
+jvm=true
+elasticsearch.version=2.4.1
+java.version=1.8.0
+classname=org.elasticsearch.plugin.direct.DirectRoutingPlugin
