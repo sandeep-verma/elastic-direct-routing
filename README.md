@@ -22,6 +22,7 @@ The table below shows for various routing keys how the documents will be routed 
 |      7      |        2       |
 
 In order to install the plugin, simply run: 
+bin/plugin install https://github.com/sandeep-verma/elastic-direct-routing/raw/master/target/releases/elasticsearch-direct-routing-plugin-1.0.zip
 
 Then in the elasticsearch.yml file add the following setting.
 
