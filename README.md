@@ -23,10 +23,6 @@ The table below shows for various routing keys how the documents will be routed 
 
 In order to install the plugin, simply run: 
 
-```sh
-bin/plugin -install dilshanatwork/elasticsearch-direct-routing-plugin/1.0
-```
-
 Then in the elasticsearch.yml file add the following setting.
 
 ```sh
